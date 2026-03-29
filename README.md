@@ -34,9 +34,9 @@ I don't just write code; I orchestrate the entire digital ecosystem. From the fi
 Here’s a real-time feed of my development matrix, rendered in a deep purple/grey spectrum.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GIT-USER]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=z927&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GIT-USER]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z927&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
