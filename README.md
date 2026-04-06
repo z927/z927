@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header Waving Pixel](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=180&section=header&text=zasi.dev&fontSize=80&fontColor=ffffff&fontAlignY=40&font=monoid&animation=twinkling)](https://git.io/typing-svg)
+[![Header Waving FiraCode](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=180&section=header&text=zasi.dev&fontSize=80&fontColor=ffffff&fontAlignY=40&font=FiraCode&animation=twinkling)](https://git.io/typing-svg)
 
 </div>
 
