@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚡ <span style="color:#7000ff">zasi.dev</span> ⚡
+[![Header Waving Pixel](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=180&section=header&text=zasi.dev&fontSize=80&fontColor=ffffff&fontAlignY=40&font=monoid&animation=twinkling)](https://git.io/typing-svg)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Infrastructure;Automating+the+world...)](https://git.io/typing-svg)
 
