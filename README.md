@@ -37,9 +37,7 @@ I am a passionate **Full Stack Developer** and **DevOps Enthusiast** focused on 
 ### 📊 SYSTEM DIAGNOSTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z927&show_icons=true&theme=tokyonight&hide_border=true&title_color=7000ff&icon_color=3DDC84&text_color=ffffff" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z927&layout=compact&theme=tokyonight&hide_border=true&title_color=7000ff&text_color=ffffff" alt="Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z927&theme=tokyonight&ring=7000ff&fire=3DDC84&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -51,10 +49,10 @@ I am a passionate **Full Stack Developer** and **DevOps Enthusiast** focused on 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=visual-studio-code&logoColor=black)](https://z927-test.lovable.app)
 [![Email](https://img.shields.io/badge/Email-7000ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonezanetti7@gmail.com)
 
-</div>
-
-<p align="right">
+<p>
   <i>"Automating the world, one commit at a time."</i>
 </p>
+
+</div>
 
 ![Footer Slice](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=100&section=footer)
