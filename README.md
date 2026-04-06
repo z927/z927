@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header Cyberpunk](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=200&section=header&text=⚡%20zasi.dev%20⚡&desc=%5B%20Full%20Stack%20Developer%20//%20DevOps%20Enthusiast%20%5D&descSize=20&descAlignY=65&fontSize=70&fontColor=ffffff&fontAlignY=35&font=FiraCode&animation=twinkling)](https://github.com/z927)
+[![Header Cyberpunk](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=200&section=header&text=⚡%20zasi.dev%20⚡&desc=%5B%20Full%20Stack%20Developer%20//%20DevOps%20Enthusiast%20%5D&descSize=20&descAlignY=65&fontSize=70&fontColor=e0e0e0&fontAlignY=35&font=FiraCode&animation=twinkling)](https://github.com/z927)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Infrastructure;Automating+the+world...)](https://git.io/typing-svg)
