@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header Waving FiraCode](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=180&section=header&text=zasi.dev&fontSize=80&fontColor=ffffff&fontAlignY=40&font=FiraCode&animation=twinkling)](https://git.io/typing-svg)
+[![Header Cyberpunk](https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:3DDC84&height=200&section=header&text=⚡%20zasi.dev%20⚡&desc=%5B%20Full%20Stack%20Developer%20//%20DevOps%20Enthusiast%20%5D&descSize=20&descAlignY=65&fontSize=70&fontColor=ffffff&fontAlignY=35&font=FiraCode&animation=twinkling)](https://github.com/z927)
 
 </div>
 
