@@ -21,7 +21,7 @@ I am a passionate **Full Stack Developer** and **DevOps Enthusiast** focused on 
 
 ---
 
-### 🛠 TECH STACK & SKILLS (Cyber Contrast)
+### 🛠 TECH STACK
 
 | Category | Tools & Technologies |
 | :--- | :--- |
