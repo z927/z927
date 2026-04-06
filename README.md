@@ -22,6 +22,28 @@ I am a passionate **Full Stack Developer** and **DevOps Enthusiast** focused on 
 
 ---
 
+### 🖥️ TERMINAL_SESSION: IDENT_LOADED
+
+```zsh
+$ system-scan --user zasi.dev
+
+[ LOG ]: Initializing diagnostic sequence...
+[ OK  ]: Kernel: Full-Stack-Core-v2.6
+[ OK  ]: Architecture: x86_64 / Cloud-Native
+[ OK  ]: Security: Enhanced (Lilla_Protocol_Active)
+
+$ get-capabilities --detailed
+
+> PRIMARY_LANGS  :: [ Java, TypeScript, Python ]
+> INFRA_STACK    :: [ Docker, K8s, Terraform ]
+> FOCUS_AREA     :: [ Automation, Scalability, CI/CD ]
+> STATUS         :: [ 🟢 Available for Innovation ]
+
+$ echo $MANTRA
+"Build it secure. Scale it fast. Automate the rest."
+```
+---
+
 ### 🛠 TECH STACK
 
 | Category | Tools & Technologies |
