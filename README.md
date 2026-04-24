@@ -63,6 +63,12 @@ $ echo $MANTRA
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z927&theme=tokyonight&ring=7000ff&fire=3DDC84&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
+### 📈 CONTRIBUTION_GRAPH
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z927&bg_color=0d1117&color=3DDC84&line=7000ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
 ---
 
 ### 📫 CONNECT WITH THE MATRIX
